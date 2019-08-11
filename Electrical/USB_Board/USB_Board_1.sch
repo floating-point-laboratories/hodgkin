@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:USB_Board_1-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -37,7 +36,7 @@ F 3 "~" H 8900 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USB_Board_1_library:MFFSMF050 MFFSMF501
+L hodgkin:MFFSMF050 MFFSMF501
 U 1 1 5D4FF7A4
 P 7250 2450
 F 0 "MFFSMF501" H 7350 2300 50  0000 C CNN
@@ -176,17 +175,6 @@ Wire Wire Line
 Wire Wire Line
 	7300 3100 7300 3200
 $Comp
-L USB_Board_1-rescue:AD8620-hodgkin U2
-U 1 1 5D4F41F2
-P 10150 2250
-F 0 "U2" H 10475 2415 50  0000 C CNN
-F 1 "AD8620" H 10475 2324 50  0000 C CNN
-F 2 "" V 10450 1500 50  0001 C CNN
-F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8610_8620.pdf" V 10450 1500 50  0001 C CNN
-	1    10150 2250
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+5V #PWR0106
 U 1 1 5D4F8512
 P 10900 2100
@@ -263,4 +251,15 @@ Wire Wire Line
 	10050 2650 10050 2750
 Wire Wire Line
 	10050 2750 9900 2750
+$Comp
+L hodgkin:AD8620-hodgkin U?
+U 1 1 5D506B54
+P 10150 2250
+F 0 "U?" H 10475 2415 50  0000 C CNN
+F 1 "AD8620-hodgkin" H 10475 2324 50  0000 C CNN
+F 2 "" V 10450 1500 50  0001 C CNN
+F 3 "" V 10450 1500 50  0001 C CNN
+	1    10150 2250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
