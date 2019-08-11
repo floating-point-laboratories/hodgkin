@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ICSP-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -777,24 +778,6 @@ Wire Wire Line
 Wire Wire Line
 	4600 1750 4500 1750
 Wire Wire Line
-	3550 3000 3800 3000
-Wire Wire Line
-	3800 3000 3800 1750
-Wire Wire Line
-	3800 1750 4200 1750
-Wire Wire Line
-	3550 3100 3900 3100
-Wire Wire Line
-	3900 3100 3900 2150
-Wire Wire Line
-	3900 2150 4200 2150
-Wire Wire Line
-	3550 3200 4000 3200
-Wire Wire Line
-	4000 3200 4000 2550
-Wire Wire Line
-	4000 2550 4200 2550
-Wire Wire Line
 	3550 3300 4100 3300
 Wire Wire Line
 	4100 3300 4100 2950
@@ -848,4 +831,34 @@ Wire Wire Line
 Wire Wire Line
 	4900 1750 5750 1750
 Connection ~ 5750 2150
+Wire Wire Line
+	4150 1750 4200 1750
+Wire Wire Line
+	1700 2600 2550 2600
+Wire Wire Line
+	4200 2150 4000 2150
+Wire Wire Line
+	1850 2500 2550 2500
+Wire Wire Line
+	4200 2550 3750 2550
+Wire Wire Line
+	2000 2400 2550 2400
+Wire Wire Line
+	4150 1350 1700 1350
+Wire Wire Line
+	4150 1350 4150 1750
+Wire Wire Line
+	1700 1350 1700 2600
+Wire Wire Line
+	1850 1450 4000 1450
+Wire Wire Line
+	4000 1450 4000 2150
+Wire Wire Line
+	1850 1450 1850 2500
+Wire Wire Line
+	3750 1600 2000 1600
+Wire Wire Line
+	3750 1600 3750 2550
+Wire Wire Line
+	2000 1600 2000 2400
 $EndSCHEMATC
