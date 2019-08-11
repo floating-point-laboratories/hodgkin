@@ -1,4 +1,4 @@
-140892737564710
+144030663186803
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -21581,6 +21581,13 @@ Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 0
 0
 hodgkin
+ArdNanoStrip
+
+
+0
+15
+15
+hodgkin
 Arduino_UNO_R3
 Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino UNO R3
@@ -21595,16 +21602,23 @@ card_edge_6p
 12
 6
 hodgkin
+card_edge_6p_single_side
+
+
+0
+6
+6
+hodgkin
 CSTNE16M0V530000R0
 
 
 0
-0
-0
+3
+3
 hodgkin
-Fuse_Bourns_MF-SM
-https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf
-bourns ptc resettable fuse polyfuse MF-SM MF-SMHT
+Fuse_Bourns_Fuse_MFMSMF050_2
+
+
 0
 2
 2

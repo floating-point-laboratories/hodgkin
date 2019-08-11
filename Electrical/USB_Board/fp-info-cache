@@ -1,4 +1,4 @@
-15981436724986607
+15986133556905390
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44912,6 +44912,13 @@ heatsink
 2
 1
 hodgkin
+ArdNanoStrip
+
+
+0
+15
+15
+hodgkin
 Arduino_UNO_R3
 Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino UNO R3
@@ -44926,6 +44933,13 @@ card_edge_6p
 12
 6
 hodgkin
+card_edge_6p_single_side
+
+
+0
+6
+6
+hodgkin
 CSTNE16M0V530000R0
 
 
@@ -44936,6 +44950,13 @@ hodgkin
 Fuse_Bourns_Fuse_MFMSMF050_2
 
 
+0
+2
+2
+hodgkin
+resetbutton
+http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRK/SKRKAHE020.html
+SMD SMT button
 0
 2
 2
