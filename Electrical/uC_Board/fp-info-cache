@@ -1,4 +1,4 @@
-148734789941666
+151866340458594
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -21624,6 +21624,20 @@ DO-220AA-2
 2
 hodgkin
 Fuse_Bourns_Fuse_MFMSMF050_2
+
+
+0
+2
+2
+hodgkin
+LM1117
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+hodgkin
+PTS636-G-2.5-NoGND
 
 
 0
