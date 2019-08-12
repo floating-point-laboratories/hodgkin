@@ -1,4 +1,4 @@
-15986133556905390
+15992396126449572
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44913,11 +44913,11 @@ heatsink
 1
 hodgkin
 ArdNanoStrip
-
-
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
 0
-15
-15
+30
+30
 hodgkin
 Arduino_UNO_R3
 Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
@@ -44947,7 +44947,28 @@ CSTNE16M0V530000R0
 3
 3
 hodgkin
+DO-220AA-2
+
+
+0
+2
+2
+hodgkin
 Fuse_Bourns_Fuse_MFMSMF050_2
+
+
+0
+2
+2
+hodgkin
+LED_0805_LightPipe
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+4
+2
+hodgkin
+MF-MSMF
 
 
 0
@@ -44960,6 +44981,13 @@ SMD SMT button
 0
 2
 2
+hodgkin
+TQFP-32_7x7mm_P0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
