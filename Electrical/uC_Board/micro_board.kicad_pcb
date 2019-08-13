@@ -12,7 +12,7 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (31 B.Cu signal hide)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -250,7 +250,7 @@
   )
 
   (module hodgkin:LM1117 (layer B.Cu) (tedit 5D51C6C2) (tstamp 5D520916)
-    (at 108.28 101.51 90)
+    (at 108.5 101 90)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
     (path /5D523F0C)
@@ -659,7 +659,7 @@
   )
 
   (module Diodes_SMD:D_1206 (layer F.Cu) (tedit 590CEAF5) (tstamp 5D5209B7)
-    (at 139.5 100 180)
+    (at 140 100 180)
     (descr "Diode SMD 1206, reflow soldering http://datasheets.avx.com/schottky.pdf")
     (tags "Diode 1206")
     (path /5D648F19)
@@ -933,7 +933,7 @@
   )
 
   (module Diodes_SMD:D_1206 (layer F.Cu) (tedit 590CEAF5) (tstamp 5D520ACE)
-    (at 139.25 95 180)
+    (at 140 95 180)
     (descr "Diode SMD 1206, reflow soldering http://datasheets.avx.com/schottky.pdf")
     (tags "Diode 1206")
     (path /5D559835)
