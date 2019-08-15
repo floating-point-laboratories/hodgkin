@@ -20,7 +20,7 @@ U 1 1 5D4F1714
 P 3450 4650
 F 0 "U1" H 3900 3100 50  0000 C CNN
 F 1 "ATmega328PB-AU" H 3900 3200 50  0000 C CNN
-F 2 "hodgkin:TQFP-32_7x7mm_P0.8mm" H 3450 4650 50  0001 C CIN
+F 2 "hodgkin:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm" H 3450 4650 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf" H 3450 4650 50  0001 C CNN
 	1    3450 4650
 	1    0    0    -1  
