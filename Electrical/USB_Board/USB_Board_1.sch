@@ -564,4 +564,70 @@ F 3 "~" H 3100 2750 50  0001 C CNN
 	1    3100 2750
 	0    -1   -1   0   
 $EndComp
+$Comp
+L hodgkin:light_pipe H1
+U 1 1 5D5B1C93
+P 1050 950
+F 0 "H1" H 1190 944 50  0000 L CNN
+F 1 "light_pipe" H 1190 853 50  0000 L CNN
+F 2 "hodgkin:light_pipe" H 1050 950 50  0001 C CNN
+F 3 "" H 1050 950 50  0001 C CNN
+	1    1050 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L hodgkin:light_pipe H2
+U 1 1 5D5B2A41
+P 1750 950
+F 0 "H2" H 1890 944 50  0000 L CNN
+F 1 "light_pipe" H 1890 853 50  0000 L CNN
+F 2 "hodgkin:light_pipe" H 1750 950 50  0001 C CNN
+F 3 "" H 1750 950 50  0001 C CNN
+	1    1750 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L hodgkin:light_pipe H3
+U 1 1 5D5B2F14
+P 2400 950
+F 0 "H3" H 2540 944 50  0000 L CNN
+F 1 "Switch" H 2540 853 50  0000 L CNN
+F 2 "hodgkin:light_pipe" H 2400 950 50  0001 C CNN
+F 3 "" H 2400 950 50  0001 C CNN
+	1    2400 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 5D5B321F
+P 1000 1150
+F 0 "#PWR0115" H 1000 900 50  0001 C CNN
+F 1 "GND" H 1005 977 50  0000 C CNN
+F 2 "" H 1000 1150 50  0001 C CNN
+F 3 "" H 1000 1150 50  0001 C CNN
+	1    1000 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 5D5B3B26
+P 1700 1150
+F 0 "#PWR0116" H 1700 900 50  0001 C CNN
+F 1 "GND" H 1705 977 50  0000 C CNN
+F 2 "" H 1700 1150 50  0001 C CNN
+F 3 "" H 1700 1150 50  0001 C CNN
+	1    1700 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5D5B3F9E
+P 2350 1150
+F 0 "#PWR0117" H 2350 900 50  0001 C CNN
+F 1 "GND" H 2355 977 50  0000 C CNN
+F 2 "" H 2350 1150 50  0001 C CNN
+F 3 "" H 2350 1150 50  0001 C CNN
+	1    2350 1150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
