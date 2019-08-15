@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:micro_board-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1044,4 +1045,6 @@ Wire Wire Line
 	6150 5900 6150 5950
 Wire Wire Line
 	6150 6350 6150 6400
+Text Label 2650 3450 0    50   ~ 0
+AREF
 $EndSCHEMATC
