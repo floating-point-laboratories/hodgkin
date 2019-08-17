@@ -20,7 +20,7 @@ U 1 1 5D4F53F9
 P 3350 3950
 F 0 "J1" H 3407 4417 50  0000 C CNN
 F 1 "USB_B_Mini" H 3407 4326 50  0000 C CNN
-F 2 "Connector_USB:USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical" H 3500 3900 50  0001 C CNN
+F 2 "hodgkin:Molex_67503-1020" H 3500 3900 50  0001 C CNN
 F 3 "~" H 3500 3900 50  0001 C CNN
 	1    3350 3950
 	1    0    0    -1  
@@ -200,8 +200,6 @@ Wire Wire Line
 Wire Wire Line
 	2350 3050 2050 3050
 Connection ~ 2050 3050
-Wire Wire Line
-	4200 3750 4100 3750
 $Comp
 L Amplifier_Operational:AD8620 U3
 U 1 1 5D588BDA
@@ -475,17 +473,6 @@ Wire Wire Line
 	7600 4900 7600 4400
 Connection ~ 7600 4400
 $Comp
-L hodgkin:MFFSMF050 U2
-U 1 1 5D6439A1
-P 3750 3700
-F 0 "U2" H 3875 3875 50  0000 C CNN
-F 1 "MFFSMF050" H 3875 3784 50  0000 C CNN
-F 2 "hodgkin:MF-MSMF" H 3750 3700 50  0001 C CNN
-F 3 "" H 3750 3700 50  0001 C CNN
-	1    3750 3700
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0114
 U 1 1 5D644716
 P 3350 4350
@@ -630,4 +617,6 @@ F 3 "" H 2350 1150 50  0001 C CNN
 	1    2350 1150
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3650 3750 4200 3750
 $EndSCHEMATC
