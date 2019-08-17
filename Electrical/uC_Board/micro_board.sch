@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega328PB-AU U1
+L MCU_Microchip_ATmega:ATmega328PB-MU U1
 U 1 1 5D4F1714
 P 3450 4650
 F 0 "U1" H 3900 3100 50  0000 C CNN
