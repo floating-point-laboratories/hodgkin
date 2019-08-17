@@ -585,43 +585,6 @@ F 3 "" H 5650 2450 50  0001 C CNN
 	1    5650 2450
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2100 1550 1900 1550
-Wire Wire Line
-	2100 1450 1900 1450
-Wire Wire Line
-	2100 1650 1900 1650
-Wire Wire Line
-	2100 1750 1900 1750
-Text Label 1900 1550 0    50   ~ 0
-D12
-Text Label 1900 1450 0    50   ~ 0
-D13
-Text Label 1900 1650 0    50   ~ 0
-D11
-Text Label 1900 1750 0    50   ~ 0
-RESET
-$Comp
-L power:GND #PWR05
-U 1 1 5D532BE7
-P 1750 1900
-F 0 "#PWR05" H 1750 1650 50  0001 C CNN
-F 1 "GND" H 1755 1727 50  0000 C CNN
-F 2 "" H 1750 1900 50  0001 C CNN
-F 3 "" H 1750 1900 50  0001 C CNN
-	1    1750 1900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1750 1250 1750 1350
-Wire Wire Line
-	1750 1350 2100 1350
-Wire Wire Line
-	1750 1850 1750 1900
-Wire Wire Line
-	1750 1850 2100 1850
-Text Notes 2100 1150 0    50   ~ 0
-ICSP
 $Comp
 L power:GND #PWR012
 U 1 1 5D553F1D
@@ -707,28 +670,6 @@ F 3 "" H 8300 4700 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	8300 1200 8300 1300
-$Comp
-L hodgkin:card_edge_6p J1
-U 1 1 5D58317C
-P 2200 1300
-F 0 "J1" H 2478 1051 50  0000 L CNN
-F 1 "card_edge_6p" H 2478 960 50  0000 L CNN
-F 2 "hodgkin:card_edge_6p_single_side" H 2050 1000 50  0001 C CNN
-F 3 "" H 2050 1000 50  0001 C CNN
-	1    2200 1300
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:VCC #PWR04
-U 1 1 5D5B2278
-P 1750 1250
-F 0 "#PWR04" H 1750 1100 50  0001 C CNN
-F 1 "VCC" H 1767 1423 50  0000 C CNN
-F 2 "" H 1750 1250 50  0001 C CNN
-F 3 "" H 1750 1250 50  0001 C CNN
-	1    1750 1250
-	1    0    0    -1  
-$EndComp
 $Comp
 L hodgkin:CSTNE16M0V530000R0 U3
 U 1 1 5D52210A
@@ -1047,4 +988,63 @@ Wire Wire Line
 	6150 6350 6150 6400
 Text Label 2650 3450 0    50   ~ 0
 AREF
+Wire Wire Line
+	3650 1550 3450 1550
+Wire Wire Line
+	3650 1450 3450 1450
+Wire Wire Line
+	3650 1650 3450 1650
+Wire Wire Line
+	3650 1750 3450 1750
+Text Label 3450 1550 0    50   ~ 0
+D12
+Text Label 3450 1450 0    50   ~ 0
+D13
+Text Label 3450 1650 0    50   ~ 0
+D11
+Text Label 3450 1750 0    50   ~ 0
+RESET
+$Comp
+L power:GND #PWR0106
+U 1 1 5D591E46
+P 3300 1900
+F 0 "#PWR0106" H 3300 1650 50  0001 C CNN
+F 1 "GND" H 3305 1727 50  0000 C CNN
+F 2 "" H 3300 1900 50  0001 C CNN
+F 3 "" H 3300 1900 50  0001 C CNN
+	1    3300 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 1250 3300 1350
+Wire Wire Line
+	3300 1350 3650 1350
+Wire Wire Line
+	3300 1850 3300 1900
+Wire Wire Line
+	3300 1850 3650 1850
+Text Notes 3650 1150 0    50   ~ 0
+ICSP
+$Comp
+L hodgkin:card_edge_6p J1
+U 1 1 5D591E51
+P 3750 1300
+F 0 "J1" H 4028 1051 50  0000 L CNN
+F 1 "card_edge_6p" H 4028 960 50  0000 L CNN
+F 2 "hodgkin:card_edge_6p_single_side" H 3600 1000 50  0001 C CNN
+F 3 "" H 3600 1000 50  0001 C CNN
+	1    3750 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0107
+U 1 1 5D591E57
+P 3300 1250
+F 0 "#PWR0107" H 3300 1100 50  0001 C CNN
+F 1 "VCC" H 3317 1423 50  0000 C CNN
+F 2 "" H 3300 1250 50  0001 C CNN
+F 3 "" H 3300 1250 50  0001 C CNN
+	1    3300 1250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
