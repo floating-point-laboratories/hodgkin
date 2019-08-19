@@ -1,4 +1,4 @@
-(module ArdNanoStrip (layer F.Cu) (tedit 5D5B1134)
+(module ArdNanoStrip (layer F.Cu) (tedit 5D5B25F0)
   (descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
   (tags "Arduino Nano")
   (fp_text reference REF** (at -3.462 0.368 180) (layer F.SilkS)
@@ -127,4 +127,14 @@
   (pad 28 thru_hole circle (at 12.7 7.62) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 29 thru_hole circle (at 15.24 7.62) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 30 thru_hole circle (at 17.78 7.62) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
+  (model "C:/Users/steve/Documents/GitHub/Newton/hodgkin/Electrical/_lib/3D/Pin Header 1x15 TH Pitch 2.54mm.stp"
+    (offset (xyz 17.8 7.6 -1.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model "C:/Users/steve/Documents/GitHub/Newton/hodgkin/Electrical/_lib/3D/Pin Header 1x15 TH Pitch 2.54mm.stp"
+    (offset (xyz 17.8 -7.6 -1.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
 )
