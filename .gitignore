@@ -21,3 +21,4 @@ _autosave-*
 *.dsn
 *.ses
 
+Electrical/uC_Board/fp-info-cache
