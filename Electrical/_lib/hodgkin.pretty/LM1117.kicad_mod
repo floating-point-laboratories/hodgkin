@@ -1,4 +1,4 @@
-(module LM1117 (layer F.Cu) (tedit 5D51C6C2)
+(module LM1117 (layer F.Cu) (tedit 5D5AF36E)
   (descr "module CMS SOT223 4 pins")
   (tags "CMS SOT")
   (attr smd)
@@ -32,5 +32,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model C:/Users/steve/Documents/GitHub/Newton/hodgkin/Electrical/_lib/3D/LM1117MP-3.3--3DModel-STEP-56544.STEP
+    (offset (xyz 0 0 0.55))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
   )
 )
