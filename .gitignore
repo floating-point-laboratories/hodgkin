@@ -22,3 +22,6 @@ _autosave-*
 *.ses
 
 Electrical/uC_Board/fp-info-cache
+
+# FreeCAD temporary files.
+*.FCStd1
