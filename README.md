@@ -8,10 +8,13 @@ Project Hodgkin is an open-source (semi) Arduino Nano compatible microcontroller
 *This device is planned to share a pinout, footprint, and firmware with the Arduino Nano V3.0 (based on the ATmega328p microcontroller). However, some changes will be necessary to ensure safe operation of the device while maintaining low cost. These include the inability to draw microcontroller power from the on-board USB port, and incompatibility with shields / expansion boards which are connected to mains power.*
 
 **Why use an optical link? Why not use a wireless connection like BLE?**
-*This is something that was certainly considered, but was ultimately abandoned in favor of a direct optical serial link for three primary reasons:
-1. Cost. The goal for this project is to meet the necessary safety requirements without dramatically adding to the cost of an Arduino Nano. Obviously some added costs are unavoidable, but a full RF solution was deemed an uneccessary cost.
-2. Stability. Since this project is intended as a direct Aduino Nano substitute for use by students, it was important to us that it behave as similarly to a stock Arduino as possible. This means plug-and-play direct USB-to-serial simplicity whenever possible.
-3. Security. Athough this device is not intended for use as a medical device, it is built with similar design philosophies in mind. In general, wireless solutions are typically not implemented in medical devices unless there is a compelling reason to do so to avoid potential data leaks / HIPAA violations.*
+*This is something that was certainly considered, but was ultimately abandoned in favor of a direct optical serial link for three primary reasons:*
+
+*1. Cost. The goal for this project is to meet the necessary safety requirements without dramatically adding to the cost of an Arduino Nano. Obviously some added costs are unavoidable, but a full RF solution was deemed an uneccessary cost.*
+
+*2. Stability. Since this project is intended as a direct Aduino Nano substitute for use by students, it was important to us that it behave as similarly to a stock Arduino as possible. This means plug-and-play direct USB-to-serial simplicity whenever possible.*
+
+*3. Security. Athough this device is not intended for use as a medical device, it is built with similar design philosophies in mind. In general, wireless solutions are typically not implemented in medical devices unless there is a compelling reason to do so to avoid potential data leaks / HIPAA violations.*
 
 **When can I purchase this device?**
 *This device is planned for inclusion in the electronics kit given to all students enrolled in SBEE 2020. Standalone sale of the device will certainly be considered if there is a demand for it. In the meantime, you are welcome to build one yourself using the files available in this repository.*
