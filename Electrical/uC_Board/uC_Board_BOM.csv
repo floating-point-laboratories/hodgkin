@@ -1,19 +1,21 @@
-﻿Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Quantity,Cost,,Total Cost
-LED,TTElectronics,OP265FAA,Mouser,828-OP265FAA,https://www.mouser.com/ProductDetail/Optek-TT-Electronics/OP265FAA?qs=%2Fha2pyFadujO8HotHfvjGYBTvEUnx2nFSQ%252BV68sKCLo%3D,$1.06 ,3,$3.18 ,,
-Photodiode,OSRAM Opto Semiconductors,SFH 229,Mouser,720-SFH229,https://www.mouser.com/ProductDetail/OSRAM-Opto-Semiconductors/SFH-229?qs=K5ta8V%252bWhtZrJWxsVgRWkA%3D%3D&gclid=EAIaIQobChMIz4T5yMX74wIV4v_jBx1wAQVgEAAYAiAAEgIIyvD_BwE,$1.06 ,2,$2.12 ,,
-trans-impedence Amp,Analog Devices,AD8620ARZ-REEL7,Mouser,584-AD8620ARZ-R7,https://www.mouser.com/ProductDetail/Analog-Devices/AD8620ARZ-REEL7?qs=sGAEpiMZZMvtNjJQt4UgLalm6EXZly%2FyJCdY%2F1Q03mw%3D,$16.27 ,1,$16.27 ,,
-card edge ,AVX,6.09159E+14,Mouser,581-609159350609000,https://www.mouser.com/ProductDetail/AVX/609159350609000?qs=sGAEpiMZZMvffgRu4KC1RwpUkTKiFW%252BFhtlaBSHlzHM%3D,$0.18 ,1,$0.18 ,,
-Schottky Diode,Vishay Semiconductors,SS1P3L-M3/84A,Mouser,625-SS1P3L-M3/84A,https://www.mouser.com/ProductDetail/Vishay-Semiconductors/SS1P3L-M3-84A?qs=HSPD0Bff7iZtYrbeCvAZDQ%3D%3D,$0.44 ,1,$0.44 ,,
-3.3V LDO Regulator,Texas Instruments,LM1117MPX-5.0/NOPB,Mouser,926-LM1117MPX5.0NOPB,https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117MPX-50-NOPB?qs=X1J7HmVL2ZE1O12Qsl7F9g%3D%3D&gclid=EAIaIQobChMI24-SupL54wIV6__jBx2Zjw2kEAAYASAAEgK6-PD_BwE,$1.10 ,1,$1.10 ,,
-16MHz oscillator,Murata Electronics,CSTNE16M0V530000R0,Mouser,81-CSTNE16M0V530000R,https://www.mouser.com/ProductDetail/Murata-Electronics/CSTNE16M0V530000R0?qs=sGAEpiMZZMsBj6bBr9Q9aVicrFFkOfIYV5da6pIYPVRxJHDRIzbVvw%3D%3D,$0.29 ,1,$0.29 ,,
-pushbutton switch,C&K,PTS636 SK25 SMTR LFS,Mouser,611-PTS636SK25SMTRLF,https://www.mouser.com/ProductDetail/CK/PTS636-SK25-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgQhX0m3g%252Bo9Q%3D,$0.13 ,1,$0.13 ,,
-ATmega328,Microchip Technology/Atmel,ATMEGA328PB-AU,Mouser,556-ATMEGA328PB-AU,https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AU?qs=jy4bLUHv09hbFONgGrqPbw%3D%3D&gclid=EAIaIQobChMIh8yYmvP-4wIVAf7jBx05ognrEAAYASAAEgI2l_D_BwE,$1.38 ,1,$1.38 ,,
-single row male header pins,,,,,,,2,$0.00 ,,
-light pipe,,,,,,,,$0.00 ,,
-1uF capacitor 0603,,,,,,,3,$0.00 ,,
-4.7uF capacitor 0805,,,,,,,1,$0.00 ,,
-100nF capacitor 0603,,,,,,,1,$0.00 ,,
-1k resistor 0603,,,,,,,5,$0.00 ,,
-1M resistor 0603,,,,,,,2,$0.00 ,,
-,,,,,,,,$0.00 ,,
-,,,,,,,,$0.00 ,,
+﻿Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Unit Price (@ 1000),Quantity,Cost (@ 1),Cost (@ 1000)
+ATMEGA328 uC,Micochip Technology / Atmel,ATMEGA328PB-AU,Mouser,556-ATMEGA328PB-AU,https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AU?qs=jy4bLUHv09hbFONgGrqPbw%3D%3D&gclid=EAIaIQobChMIh8yYmvP-4wIVAf7jBx05ognrEAAYASAAEgI2l_D_BwE,$1.38 ,$1.15 ,1,$1.38 ,1.15
+Precision Transimpedance Amp,Analog Devices,AD8620ARZ-REEL7,Mouser,584-AD8620ARZ-R7,https://www.mouser.com/ProductDetail/Analog-Devices/AD8620ARZ-REEL7?qs=sGAEpiMZZMvtNjJQt4UgLalm6EXZly%2FyJCdY%2F1Q03mw%3D,$3.08 ,$1.63 ,1,$3.08 ,1.63
+IR Photodiode,Wurth Elektronik,1541201EEA400,Mouser,710-1541201EEA400,https://www.mouser.com/ProductDetail/Wurth-Elektronik/1541201EEA400?qs=sGAEpiMZZMtWNtIk7yMEsZQSjt2jgOZwp2em9TE3lq2ypf0ZCPeNrw%3D%3D,$0.54 ,$0.33 ,2,$1.08 ,0.66
+IR LED,Stanley Electric,TAN1105W-TR,Mouser,327-TAN1105WTR,https://www.mouser.com/ProductDetail/Stanley-Electric/TAN1105W-TR?qs=sGAEpiMZZMvAL21a%2FDhxMn4m4NxZkvurTt1J9C7uE6IhjI4NcQciSQ%3D%3D,$0.37 ,$0.12 ,1,$0.37 ,0.123
+NPN BJT,ON Semiconductor,BC850CLT1G,Mouser,863-BC850CLT1G,https://www.mouser.com/ProductDetail/ON-Semiconductor/BC850CLT1G?qs=sGAEpiMZZMshyDBzk1%2FWi%2FPUgtclNldlSy71XeSFIHQ%3D,$0.10 ,$0.02 ,1,$0.10 ,0.02
+3.3V LDO Regulator,Texas Instruments,LM1117MPX-5.0/NOPB,Mouser,926-LM1117MPX5.0NOPB,https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117MPX-50-NOPB?qs=X1J7HmVL2ZE1O12Qsl7F9g%3D%3D&gclid=EAIaIQobChMI24-SupL54wIV6__jBx2Zjw2kEAAYASAAEgK6-PD_BwE,$1.10 ,$0.50 ,1,$1.10 ,0.501
+16MHz oscillator,Murata Electronics,CSTNE16M0V530000R0,Mouser,81-CSTNE16M0V530000R,https://www.mouser.com/ProductDetail/Murata-Electronics/CSTNE16M0V530000R0?qs=sGAEpiMZZMsBj6bBr9Q9aVicrFFkOfIYV5da6pIYPVRxJHDRIzbVvw%3D%3D,$0.51 ,$0.27 ,1,$0.51 ,0.269
+pushbutton switch,C&K,PTS636 SK25 SMTR LFS,Mouser,611-PTS636SK25SMTRLF,https://www.mouser.com/ProductDetail/CK/PTS636-SK25-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgQhX0m3g%252Bo9Q%3D,$0.13 ,$0.08 ,1,$0.13 ,0.076
+light pipe,Bivar,VLP-650-F,Digi-Key,492-2287-ND,https://www.digikey.com/product-detail/en/bivar-inc/VLP-650-F/492-2287-ND/4500883,$0.53 ,$0.17 ,2,$1.06 ,0.34
+1uF capacitor 0603,,,,,,,,3,,
+4.7uF capacitor 0805,,,,,,,,1,,
+100nF capacitor 0603,,,,,,,,1,,
+1k resistor 0603,,,,,,,,5,,
+1M resistor 0603,,,,,,,,2,,
+Single row male header pins,,,,,,,,2,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,$8.81 ,4.769
