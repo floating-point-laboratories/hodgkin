@@ -1,13 +1,13 @@
 ﻿Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Unit Price (@ 1000),Quantity,Cost (@ 1),Cost (@ 1000)
-USB RS232 Interface IC,FTDI,FT232RL ,Mouser,895-FT232RL,https://www.mouser.com/ProductDetail/FTDI/FT232RL-REEL?qs=sGAEpiMZZMutXGli8Ay4kP5mehck65FINgd%2FGnbsy6g%3D,$4.500 ,$2.650 ,1,$4.50 ,$2.650 
-Precision Transimpedance Amp,Analog Devices,AD8620ARZ-REEL7,Mouser,584-AD8620ARZ-R7,https://www.mouser.com/ProductDetail/Analog-Devices/AD8620ARZ-REEL7?qs=sGAEpiMZZMvtNjJQt4UgLalm6EXZly%2FyJCdY%2F1Q03mw%3D,$3.080 ,$1.630 ,1,$3.08 ,$1.630 
-IR Photodiode,Wurth Elektronik,1541201EEA400,Mouser,710-1541201EEA400,https://www.mouser.com/ProductDetail/Wurth-Elektronik/1541201EEA400?qs=sGAEpiMZZMtWNtIk7yMEsZQSjt2jgOZwp2em9TE3lq2ypf0ZCPeNrw%3D%3D,$0.540 ,$0.330 ,1,$0.54 ,$0.330 
-IR LED,Stanley Electric,TAN1105W-TR,Mouser,327-TAN1105WTR,https://www.mouser.com/ProductDetail/Stanley-Electric/TAN1105W-TR?qs=sGAEpiMZZMvAL21a%2FDhxMn4m4NxZkvurTt1J9C7uE6IhjI4NcQciSQ%3D%3D,$0.370 ,$0.123 ,2,$0.74 ,$0.246 
-NPN BJT,ON Semiconductor,BC850CLT1G,Mouser,863-BC850CLT1G,https://www.mouser.com/ProductDetail/ON-Semiconductor/BC850CLT1G?qs=sGAEpiMZZMshyDBzk1%2FWi%2FPUgtclNldlSy71XeSFIHQ%3D,$0.100 ,$0.020 ,2,$0.20 ,$0.050 
+USB RS232 Interface IC,FTDI,FT232RL ,Mouser,895-FT232RL,https://www.mouser.com/ProductDetail/FTDI/FT232RL-REEL?qs=sGAEpiMZZMutXGli8Ay4kP5mehck65FINgd%2FGnbsy6g%3D,$4.50 ,$2.65 ,1,$4.50 ,$2.650
+Precision Transimpedance Amp,Texas Instruments,OPA2381AIDGKR,Mouser,595-OPA2381AIDGKR,https://www.mouser.com/ProductDetail/Texas-Instruments/OPA2381AIDGKR?qs=sGAEpiMZZMuEBu2IkGob7mkjoD7K%252BZ9DIIYe3xZnAnI%3D,$2.68 ,$1.410 ,1,$2.68 ,$1.410
+IR Photodiode,Wurth Elektronik,1541201EEA400,Mouser,710-1541201EEA400,https://www.mouser.com/ProductDetail/Wurth-Elektronik/1541201EEA400?qs=sGAEpiMZZMtWNtIk7yMEsZQSjt2jgOZwp2em9TE3lq2ypf0ZCPeNrw%3D%3D,$0.54 ,$0.33 ,1,$0.54 ,$0.330
+IR LED,Stanley Electric,TAN1105W-TR,Mouser,327-TAN1105WTR,https://www.mouser.com/ProductDetail/Stanley-Electric/TAN1105W-TR?qs=sGAEpiMZZMvAL21a%2FDhxMn4m4NxZkvurTt1J9C7uE6IhjI4NcQciSQ%3D%3D,$0.37 ,$0.12 ,2,$0.74 ,$0.246
+NPN BJT,ON Semiconductor,BC850CLT1G,Mouser,863-BC850CLT1G,https://www.mouser.com/ProductDetail/ON-Semiconductor/BC850CLT1G?qs=sGAEpiMZZMshyDBzk1%2FWi%2FPUgtclNldlSy71XeSFIHQ%3D,$0.10 ,$0.02 ,2,$0.20 ,$0.050
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-,,,,,,,,,$9.06 ,$4.906 
+,,,,,,,,,$9.06 ,$4.906

@@ -1,4 +1,4 @@
-15998664667891565
+16008078199576078
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44912,6 +44912,13 @@ heatsink
 2
 1
 hodgkin
+ArdNanoLabels
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+0
+0
+hodgkin
 ArdNanoStrip
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino Nano
@@ -48124,6 +48131,41 @@ solder jumper open
 0
 5
 3
+laser_ct
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+laser_ct
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
+0
+3
+3
+laser_ct
+JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical
+JST XH series connector, B5B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
+0
+5
+5
+laser_ct
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+laser_ct
+LTR_301
+PhotoDiode, SFH225, RM2.54
+PhotoDiode SFH225 RM2.54
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
